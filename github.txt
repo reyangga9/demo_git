@@ -1,0 +1,38 @@
+git add.
+
+git commit -m "asdasdas"
+
+git config user.name digunakan untuk ngasih tau siapa yg melakukan perubahan
+
+
+
+cara ngecek config 
+
+git config user.name
+
+git clone digunakan untuk mengclone suatu github file/repo
+
+
+git clone "url"
+
+git fetch digunakan untuk 
+
+git pull untuk download dari remote
+
+esc :wq
+
+
+git revert -> undo /revert certain commit
+git revert --abort untuk meng undo revert
+git undo last commit
+
+git log ->  digunakan untuk melihat log kalo mau keluar ketik q
+
+git checkout -b :branch 2"
+
+cobain branch baru
+
+
+COBA CEK VIM List Command
+
+

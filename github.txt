@@ -20,3 +20,19 @@ git fetch digunakan untuk
 git pull untuk download dari remote
 
 esc :wq
+
+
+git revert -> undo /revert certain commit
+git revert --abort untuk meng undo revert
+git undo last commit
+
+git log ->  digunakan untuk melihat log kalo mau keluar ketik q
+
+git checkout -b :branch 2"
+
+cobain branch baru
+
+
+COBA CEK VIM List Command
+
+
